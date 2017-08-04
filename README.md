@@ -1,8 +1,8 @@
 # TicketMaster Bot
 
 Important: 
-This bot is for educational and personal use.
-Under no circumstances do I recommend buying tickets with the purpose of selling for profit.
+This bot is for educational and personal use.  
+Under no circumstances do I recommend buying tickets with the purpose of selling for profit.  
 The author of these scripts takes no responsiiblity for any misuse of them.
 
 Note: This bot is designed to only work with Ticketmaster's new website. (i.e. url starts with 'www1.ticketmaster.')
