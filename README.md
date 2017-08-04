@@ -28,6 +28,6 @@ Donations encourage me to maintain the code and ensure it keeps working for futu
 The bot will automatically refresh regularly if the tickets aren't yet on sale.  
 
 <br>
-Tip: Test it out on a page were tickets are already on sale.  
+Tip: Test it out on a page were tickets are already on sale. <br>
 Tip: Run multiple tabs (But be careful!!!, too many requests and you risk getting blocked by Ticketmaster)
 
