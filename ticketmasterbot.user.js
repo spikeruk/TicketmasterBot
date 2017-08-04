@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TicketMaster
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Fast execution of reserving tickets in cart
 // @match        https://www1.ticketmaster.co.uk/*
 // @match        https://www1.ticketmaster.com/*
