@@ -15,15 +15,20 @@ Donations encourage me to maintain the code and ensure it keeps working for futu
 
 
 **Instructions**
-<br />
-1.You need to install Greasemonkey/Tampermonkey first:
+
+You need to install Greasemonkey/Tampermonkey first:
 * Chrome: http://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 * Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?src=ss  
-<br />
-2. After you have installed the extension then simply click this link to install the script. [![Install TicketMaster Bot](https://github.com/spikeruk/TicketmasterBot/blob/master/resources/install.png)](https://github.com/spikeruk/TicketmasterBot/raw/master/ticketmasterbot.user.js)  
-<br />
-3. Navigate to a 'www1.ticketmaster.' ticket page shortly before the tickets are due to go on sale.
+<br>
+
+After you have installed the extension then simply click this link to install the script.
+[![Install TicketMaster Bot](https://github.com/spikeruk/TicketmasterBot/blob/master/resources/install.png)](https://github.com/spikeruk/TicketmasterBot/raw/master/ticketmasterbot.user.js)
+
+
+Navigate to a 'www1.ticketmaster.' ticket page shortly before the tickets are due to go on sale.
 The bot will automatically refresh regularly if the tickets aren't yet on sale.  
-<br />
+
+
 * Tip: Test it out on a page were tickets are already on sale.  
 * Tip: Run multiple tabs (But be careful!!!, too many requests and you risk getting blocked by Ticketmaster)
+
