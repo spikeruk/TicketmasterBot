@@ -9,7 +9,7 @@ You need to install Greasemonkey/Tampermonkey first:
 * Chrome: http://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 * Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?src=ss
 
-[![Install TicketMaster Bot](../resources/install.png)](../../../../raw/master/scripts/ticketmasterbot/ticketmasterbot.user.js)
+[![Install TicketMaster Bot](https://github.com/spikeruk/TicketmasterBot/blob/master/resources/install.png)](../../../../raw/master/scripts/ticketmasterbot/ticketmasterbot.user.js)
 
 If this Bot successfully secures you tickets please donate
 The more donations the more I will maintain the code and ensure it keeps working! 
