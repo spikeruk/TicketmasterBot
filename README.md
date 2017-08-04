@@ -17,9 +17,8 @@ You can change the number of tickets by modifying the numberOfTickets variable i
 
 
 
-Tip: Test it out on a page were tickets are already on sale.
-
-Tip: You can rub multiple tabs to increase your chances (But be careful!!!, too many requests and you rsik getting your ip blocked)
+* Tip: Test it out on a page were tickets are already on sale.
+* Tip: Run multiple tabs (But be careful!!!, too many requests and you risk getting blocked by Ticketmaster)
 
 
 If this Bot successfully secures you tickets please donate. (no matter how small)
