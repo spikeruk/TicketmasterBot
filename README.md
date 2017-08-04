@@ -20,6 +20,7 @@ Instructions
 [![Install TicketMaster Bot](https://github.com/spikeruk/TicketmasterBot/blob/master/resources/install.png)](https://github.com/spikeruk/TicketmasterBot/raw/master/ticketmasterbot.user.js)
 
 3. Navigate to a www1.ticketmaster ticket page shortly before the tickets are due to go on sale.
+The bot will automatically refresh regularly if the tickets aren't yet on sale.
 
 
 
