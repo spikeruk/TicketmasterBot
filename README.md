@@ -27,7 +27,7 @@ Donations encourage me to maintain the code and ensure it keeps working for futu
 3) Navigate to a 'www1.ticketmaster.' ticket page shortly before the tickets are due to go on sale.
 The bot will automatically refresh regularly if the tickets aren't yet on sale.  
 
-
+<br>
 Tip: Test it out on a page were tickets are already on sale.  
 Tip: Run multiple tabs (But be careful!!!, too many requests and you risk getting blocked by Ticketmaster)
 
