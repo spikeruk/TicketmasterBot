@@ -1,5 +1,10 @@
 # TicketMaster Bot
 
+Important: 
+This bot is for educational and personal use.
+Under no circumstances do I recommend buying tickets with the purpose of selling for profit.
+The author of these scripts takes no responsiiblity for any misuse of them.
+
 Note: This bot is designed to only work with Ticketmaster's new website. (i.e. url starts with 'www1.ticketmaster.')
 It will attempt to add the default number of lowest price tickets to the cart. You can then finish the purchase as normal.
 You can change the number of tickets by modifying the numberOfTickets variable in the script. (Instructions to follow)
