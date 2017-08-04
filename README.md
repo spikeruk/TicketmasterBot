@@ -15,8 +15,8 @@ You can change the number of tickets by modifying the numberOfTickets variable i
 
 3. Navigate to a www1.ticketmaster ticket page shortly before the tickets are due to go on sale.
 
-Tip: Test it out on a page were tickets are already on sale.
 
+Tip: Test it out on a page were tickets are already on sale.
 Tip: You can rub multiple tabs to increase your chances (But be careful!!!, too many requests and you rsik getting your ip blocked)
 
 
