@@ -12,7 +12,7 @@
 
 
 var refreshIntervalSeconds=1; //Set this to how often you want to check for tickets (Note: Do this too fast and TicketMaster may block your ip address)
-var numberOfTickets=4; //Set this to the number of tickets you want
+var numberOfTickets=2; //Set this to the number of tickets you want
 
 function SkipPopup()
 {
