@@ -9,10 +9,6 @@ Note: This bot is designed to only work with Ticketmaster's new website. (i.e. u
 It will attempt to add the default number of lowest price tickets to the cart. You can then finish the purchase as normal.
 You can change the number of tickets by modifying the numberOfTickets variable in the script. (Instructions to follow)
 
-If this Bot successfully secures you tickets please donate.  
-Donations encourage me to maintain the code and ensure it keeps working for future use!
-[![PayPal - The safer, easier way to pay online!](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif "PayPal - The safer, easier way to pay online!")](https://www.paypal.me/ticketmasterbot)
-
 
 **Instructions**
 
