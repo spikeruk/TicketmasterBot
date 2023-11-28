@@ -7,6 +7,7 @@
 // @match        https://www1.ticketmaster.com/*
 // @match        https://www1.ticketmaster.ie/*
 // @match        https://www1.ticketmaster.com.au/*
+// @match        https://www.ticketmaster.com.au/*
 // @match        https://ticketmaster.com.au/*
 // @require      https://code.jquery.com/jquery-2.1.3.min.js
 // @grant        none
