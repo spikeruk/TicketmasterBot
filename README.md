@@ -1,5 +1,7 @@
 # TicketMaster Bot
 
+Anybody interested in talking through new projects or ideas you can contact me on Telegram @spikersloan
+
 **Important:** 
 This bot is for educational and personal use.  
 Under no circumstances do I recommend buying tickets with the purpose of selling for profit.  
