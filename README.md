@@ -1,8 +1,7 @@
 # TicketMaster Bot
 
 The code in this repository is >7 years old and no longer works on the new TicketMaster.
-Any technically minded people that are interested in talking through new projects or ideas  can contact me on Telegram @spikersloan
-I want to focus on tips, strategies, alerting mechanisms etc for the new version.
+Any technically minded people that are interested in talking through new projects or ideas can contact me on Telegram @spikersloan
 
 **Important:** 
 This bot is for educational and personal use.  
