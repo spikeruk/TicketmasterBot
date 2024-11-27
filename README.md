@@ -2,7 +2,7 @@
 
 **Update:** 
 The code in this repository is >7 years old and no longer works on the new TicketMaster.
-The new ticketmaster uses a 3rd party vendor called QueueIt for its queue system, normally 15mins before an event sale starts the users are put into a large pool of queueing users. (after completing some background QueueIt challenges)
+The new ticketmaster uses a 3rd party vendor called QueueIt for its queue system. Normally 15mins before an event sale starts the users are put into a large pool of queueing users. (after completing some background QueueIt challenges)
 At the time of the sale, users are then allocated a random position in the queue before being allowed in to purchase tickets.
 
 Any technically minded people that are interested in talking through new projects or ideas can contact me on Telegram @spikersloan
